@@ -10,7 +10,9 @@ Create React App is divided into two packages:
 * `create-react-app` is a global command-line utility that you use to create new projects.
 * `react-scripts` is a development dependency in the generated projects (including this one).
 
-##Quick Overview
+
+
+## Quick Overview
 
 ```
 npx create-react-app my-app
@@ -109,10 +111,11 @@ You can refer [to the React documentation](https://reactjs.org/docs/react-dom.ht
 1、cd node_modules/react-scripts  在node_modules下找到react-scripts文件夹
 2、yarn add less less-loader     安装less、less-loader依赖包
 
-##[React life cycle (React生命周期)](http://www.css88.com/react/docs/state-and-lifecycle.html)
+## [React life cycle (React生命周期)](http://www.css88.com/react/docs/state-and-lifecycle.html)
 
-## Use `[pubsub-js](https://www.npmjs.com/package/pubsub-js)` Subscribe events
-yarn add pubsub-js
+##  Use [pubsub-js](https://www.npmjs.com/package/pubsub-js) Subscribe events
+
+`yarn add pubsub-js`
 ```
 PubSub.publish('xxx')
 PubSub.subscribe('xxx');
