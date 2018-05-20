@@ -125,3 +125,12 @@ PubSub.subscribe('xxx');
 
 ## [About ES6](http://es6.ruanyifeng.com/#docs/class)
 
+##### o
+
+**[create-react-app 不支持less解决方案](https://blog.csdn.net/echo008/article/details/78311831P
+
+#####P
+**[create-react-app 不支持less解决方案](https://blog.csdn.net/echo008/article/details/78311831
+
+#### Play 
+![image](https://github.com/Searworld/img-folder/blob/master/%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8.gif?raw=true)
