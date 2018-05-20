@@ -121,3 +121,6 @@ PubSub.publish('xxx')
 PubSub.subscribe('xxx');
 
 ```
+## [React-router(v4)](https://reacttraining.com/react-router/web/example/basic)
+
+## [About ES6](http://es6.ruanyifeng.com/#docs/class)
