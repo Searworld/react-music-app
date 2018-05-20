@@ -10,25 +10,37 @@ Create React App is divided into two packages:
 * `create-react-app` is a global command-line utility that you use to create new projects.
 * `react-scripts` is a development dependency in the generated projects (including this one).
 
+##Quick Overview
+
+```
+npx create-react-app my-app
+cd my-app
+npm start
+```
+
 ## Folder Structure
 
 After creation, your project should look like this:
 
 ```
-my-app/
-  README.md
-  node_modules/
-  package.json
-  public/
-    index.html
-    favicon.ico
-  src/
-    App.css
-    App.js
-    App.test.js
-    index.css
-    routes.js
-    logo.svg
+my-app
+├── README.md
+├── node_modules
+├── package.json
+├── .gitignore
+├── public
+│   └── favicon.ico
+│   └── index.html
+│   └── manifest.json
+└── src
+    └── App.css
+    └── App.js
+    └── App.test.js
+    └── index.css
+    └── index.js
+    └── logo.svg
+    └── registerServiceWorker.js
+
 ```
 
 For the project to build, **these files must exist with exact filenames**:
@@ -90,15 +102,19 @@ By default, the generated project uses the latest version of React.
 
 You can refer [to the React documentation](https://reactjs.org/docs/react-dom.html#browser-support) for more information about supported browsers.
 
-## Supported Language Features and Polyfills
+##How to install less && less-loader
 
-This project supports a superset of the latest JavaScript standard.<br>
-In addition to [ES6](https://github.com/lukehoban/es6features) syntax features, it also supports:
+**[create-react-app 不支持less解决方案](https://blog.csdn.net/echo008/article/details/78311831)
 
-* [Exponentiation Operator](https://github.com/rwaldron/exponentiation-operator) (ES2016).
-* [Async/await](https://github.com/tc39/ecmascript-asyncawait) (ES2017).
-* [Object Rest/Spread Properties](https://github.com/sebmarkbage/ecmascript-rest-spread) (stage 3 proposal).
-* [Dynamic import()](https://github.com/tc39/proposal-dynamic-import) (stage 3 proposal)
-* [Class Fields and Static Properties](https://github.com/tc39/proposal-class-public-fields) (part of stage 3 proposal).
-* [JSX](https://facebook.github.io/react/docs/introducing-jsx.html) and [Flow](https://flowtype.org/) syntax.
+1、cd node_modules/react-scripts  在node_modules下找到react-scripts文件夹
+2、yarn add less less-loader     安装less、less-loader依赖包
 
+##[React life cycle (React生命周期)](http://www.css88.com/react/docs/state-and-lifecycle.html)
+
+## Use `[pubsub-js](https://www.npmjs.com/package/pubsub-js)` Subscribe events
+yarn add pubsub-js
+```
+PubSub.publish('xxx')
+PubSub.subscribe('xxx');
+
+```
