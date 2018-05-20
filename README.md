@@ -124,3 +124,6 @@ PubSub.subscribe('xxx');
 ## [React-router(v4)](https://reacttraining.com/react-router/web/example/basic)
 
 ## [About ES6](http://es6.ruanyifeng.com/#docs/class)
+
+## Play
+![image](https://github.com/Searworld/img-folder/blob/master/%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8.gif?raw=true)
