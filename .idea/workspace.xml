@@ -2,52 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="057bcba3-e99a-40aa-a4c3-4008705e91da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/iconfont/iconfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/iconfont/iconfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/iconfont/iconfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/my-app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/terminal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/App.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/App.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Cover/cover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Cover/cover.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/musicItem/musicItem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/musicItem/musicItem.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/progress/progress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/progress/progress.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/musicList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/registerServiceWorker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/router/routes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/grobal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/icon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/iconfont/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/iconfont/demo_fontclass.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/iconfont/demo_symbol.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/iconfont/demo_unicode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/iconfont/iconfont.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/iconfont/iconfont.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/iconfont/iconfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/header/header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/header/header.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/musicList/musicList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/musicList/musicList.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/player/player.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/player/player.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -76,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="894">
+              <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
@@ -270,6 +226,7 @@
         <option value="$PROJECT_DIR$/src/components/progress/progress.less" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/view/player/player.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -508,23 +465,31 @@
       <workItem from="1525969404664" duration="3504000" />
       <workItem from="1525999693499" duration="4933000" />
       <workItem from="1526115450923" duration="158000" />
-      <workItem from="1526115620845" duration="79358000" />
+      <workItem from="1526115620845" duration="79911000" />
     </task>
+    <task id="LOCAL-00001" summary="react-create-app音乐播放器">
+      <created>1526796173616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526796173616</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95536000" />
+    <option name="totallyTimeSpent" value="96089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22692037" sideWeight="0.67320263" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13389711" sideWeight="0.67320263" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25997582" sideWeight="0.53629315" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49753347" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25997582" sideWeight="0.46370682" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22692037" sideWeight="0.3267974" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13389711" sideWeight="0.3267974" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37107778" sideWeight="0.82522905" order="7" side_tool="false" content_ui="tabs" />
@@ -543,6 +508,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="react-create-app音乐播放器" />
+    <option name="LAST_COMMIT_MESSAGE" value="react-create-app音乐播放器" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -943,14 +912,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -971,6 +932,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="894">
+          <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
           <folding />
         </state>
       </provider>
